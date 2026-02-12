@@ -2,7 +2,7 @@
 
 // 1. YouTube Video IDs (Only paste the ID after v= or in the short link)
 window.LECTURES_LINKS = {
-    "The Living World": "JrnQ-91VIdo",
+    "The Living World": "https://www.youtube.com/live/r3_N_9Dtljk?si=x5Wl2HMTCmEge0qT",
     "Biological Classification": "V9WAsL_R_y4",
     "Plant Kingdom": "F_0_6D7-oXg",
     "Animal Kingdom": "",
