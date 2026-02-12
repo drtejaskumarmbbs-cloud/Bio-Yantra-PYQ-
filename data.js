@@ -38,7 +38,7 @@ window.LECTURES_LINKS = {
 
 // 2. PDF/Notes Links (Direct URL to PDF or Google Drive Link)
 window.NOTES_LINKS = {
-    "The Living World": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "The Living World": "Notes/chemical coordination and integration.pdf",
     "Cell: The Unit of Life": ""
     // Add more here following the same pattern
 };
